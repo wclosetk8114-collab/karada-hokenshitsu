@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://karada-hokenshitsu.vercel.app/sitemap.xml
